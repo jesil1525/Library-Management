@@ -1,8 +1,7 @@
 # Library-Management
 
-This mini project in C is a console application using the C programming language. It is compiled with the GCC compiler. With this program, we can perform library related functions.
-
-This program has Two users
+This mini project in C is a console application using the C programming language. It is compiled with the GCC compiler. With this program, we can perform library related functions.The functions that can be performed are,ADD BOOK,EDIT BOOK,DELETE BOOK,SEARCH BOOK(using ID/NAME/CATEGORY),CHECK BOOK AVAILABILITY,ISSUE BOOK,RETURN BOOK,VIEW BOOKS,ADD USER,EDIT USER,DELETE USER,VIEW USER,SEARCH USER,VIEW PROFILE.
+The description of functions are,
 1.ADMIN:
    1.void admin_login();
               Administrator can login using password.
